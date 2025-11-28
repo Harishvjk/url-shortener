@@ -109,15 +109,3 @@ url-shortener/
 
 - Node.js version: 14+
 - MongoDB: Local instance on port 27017
-
-## License
-
-ISC
-
-## Author
-
-Harish VJK
-
-## Repository
-
-[GitHub - url-shortener](https://github.com/Harishvjk/url-shortener)
